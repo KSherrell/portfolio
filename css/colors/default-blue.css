@@ -1,0 +1,81 @@
+/*-----------------------------------------------------------
+* Template Name    : Isoate - Personal Portfolio Bootstrap 4 HTML Template
+* Version          : 1.0
+* File Description : This File Includes Color View CSS
+*------------------------------------------------------------*/
+
+.preloader-inner{ border-top-color:#1a7bb7; }
+.btn-primary, .btn-primary:focus, .btn-primary:not(:disabled):not(.disabled):active:focus,.btn-primary:not(:disabled):not(.disabled):active,.social-icon a:hover,.pagination ul li a:hover, 
+.pagination ul li a.selected,.dark-mode .social-icon a:hover { background-color:#1a7bb7; border-color:#1a7bb7; }
+.btn-primary:hover{ background-color:#1289d2; border-color:#1289d2; }
+a:hover,a:focus,.btn-link,.typewrite .wrap,.parent-color,#color-switcher .switcher-button,.clients .owl-nav button.owl-next:hover,.clients .owl-nav button.owl-prev:hover,
+.services .service-item i,.blog-section .meta span i,.dark-mode a:hover:not(.btn),.dark-mode .info ul.info-list li .value a:hover,.dark-mode .blog-section .blog-info p .main-color:hover{ color:#1a7bb7; }
+.main-title h1:after,.main-nav a.active,.main-nav a.active:before,.main-nav a:before,.countdown-section .count-item:hover i ,.owl-carousel .owl-dots .owl-dot.active,.price-item:hover .price-head,
+.price-item.startup .price-head,.price-item.standard .price-head,.call-action:before,.call-action .btn:hover,.divider:after,.timeline .timeline-item .item-arrow:before,
+.badge-danger,.skills-list .progress .progress-bar,.portfolio-section .portfolio-nav ul li.active,.portfolio-section .portfolio-nav ul li:hover,
+.portfolio-section .portfolio-nav ul li span,.blog-section .blog-img .day,.blog-section .blog-img .blog-link a,.contact-info li:hover .icon,
+.address-info i,.menu-toggle-line,.back-to-top:hover,.portfolio-section .right-sidebar .project-general-info { background-color:#1a7bb7; }
+.pagination ul li a.disabled { background-color:#efefef; }
+.clients .owl-item a:hover { border-color:#1a7bb7; }
+.blockquote,.timeline .timeline-item,.timeline .timeline-item .item-arrow:after { border-left-color:#1a7bb7; }
+.portfolio-section .portfolio-nav ul li span:before{ border-top-color:#1a7bb7; }
+.portfolio-section .portfolio-detail{ background:rgba(26,123,183,0.95) none repeat scroll 0 0; }
+/* LTR To RTL CSS */
+[dir=rtl] .blockquote,[dir=rtl] .timeline .timeline-item,[dir=rtl] .timeline .timeline-item .item-arrow:after { border-right-color:#1a7bb7; }
+
+/*-----------------------------------------
+* Index Slide box Layout CSS
+* -----------------------------------------*/
+.index-slides-box .main-nav li:hover a,.index-slides-box .main-nav li.active a{ color:#1a7bb7; }
+
+/*-----------------------------------------
+* Index Rounded Slides Box CSS
+* -----------------------------------------*/
+.index-rounded-slides-box .container{ background-color:#1a7bb7 !important; }
+.index-rounded-slides-box .content-arrows-nav .arrow:hover { color:#1a7bb7; }
+.index-rounded-slides-box .menu-toggle,.index-rounded-slides-box .header { background-color:#1a7bb7; }
+@media only screen and (min-width:991px){
+    .index-rounded-slides-box .main-nav a .link-text,
+    .index-rounded-slides-box .content-arrows-nav .link-text{ background-color:#1a7bb7; }
+    .index-rounded-slides-box .main-nav a .link-text:after,.index-rounded-slides-box .content-arrows-nav .link-text:after { border-left-color:#1a7bb7; }
+    .index-rounded-slides-box .main-nav a:hover,.index-rounded-slides-box .main-nav a:focus,.index-rounded-slides-box .main-nav a:active,.index-rounded-slides-box .main-nav a.active,
+    .index-video .site-header:not(.sticky-header) .navigation .navbar-nav .nav-item:hover .nav-link,.index-video .site-header:not(.sticky-header) .navigation .navbar-nav .nav-item .nav-link.active{ color:#1a7bb7; }
+    [dir=rtl] .index-rounded-slides-box .main-nav a .link-text:after,[dir=rtl] .index-rounded-slides-box .content-arrows-nav .link-text:after { border-right-color:#1a7bb7; }
+}
+
+@media only screen and (max-width:991px){  
+    .index-rounded-slides-box .content-arrows-nav{ border-color:#1a7bb7; }
+}
+
+/*-----------------------------------------
+* Index Rounded Slides Box CSS
+* -----------------------------------------*/
+/* Button Primary */
+.index-scroll-box .btn-primary,.index-scroll-box .btn-primary:focus,.index-scroll-box .btn-primary:not(:disabled):not(.disabled):active:focus, 
+.index-scroll-box .btn-primary:not(:disabled):not(.disabled):active { background-color:transparent; color:#1a7bb7; border-color:#1a7bb7; }
+.index-scroll-box .btn-primary:hover,.index-text-slideshow .banner-video .btn:hover{ background-color:#1a7bb7; color:#ffffff; border-color:#1a7bb7; }
+/* Inner Content CSS */
+.index-scroll-box .header,.index-scroll-box .menu-toggle span{ background-color:#1a7bb7; }
+.index-scroll-box .portfolio-section .portfolio-nav ul li.active,.index-scroll-box .portfolio-section .portfolio-nav ul li:hover { background-color:#1a7bb7; color:#ffffff; border-color:#1a7bb7; }
+/* Dark Mode CSS */
+.dark-mode.index-scroll-box .portfolio-section .portfolio-nav ul li.active,.dark-mode.index-scroll-box .portfolio-section .portfolio-nav ul li:hover{ border-color:#1a7bb7; }
+
+/*-----------------------------------------
+* Index One Page scrollspy
+* -----------------------------------------*/
+.index-scrollspy a:not(.btn):hover,.index-scrollspy .navigation .closeNav-btn:hover,.index-scrollspy .navigation .navbar-nav .nav-item:hover .nav-link, .index-scrollspy .navigation .navbar-nav .nav-item .nav-link.active,
+.index-scrollspy .testimonial-section .owl-nav button.owl-prev,.index-scrollspy .testimonial-section .owl-nav button.owl-next,.index-scrollspy .testimonial-section .rating li,.index-scrollspy .footer .copyright a:hover,
+.index-scrollspy .footer .social-icon li:hover a,.index-video .site-header:not(.sticky-header) .navigation .navbar-toggler.open,.cms-block .main-title.active h1,.index-text-rotate .word-slider ul li{ color:#1a7bb7; }
+.index-scrollspy .navigation .navbar-nav .nav-item .nav-link:before,.index-scrollspy .countdown-section .count-item i,.index-scrollspy .service-section .service-item:before,
+.index-scrollspy .testimonial-section .owl-dots .owl-dot.active,.right-sidebar .categories-list ul li span,.index-text-slideshow .slideshow-slider.owl-carousel .owl-dots .owl-dot.active{ background-color:#1a7bb7; }
+.index-scrollspy .navigation .navbar-nav .nav-item:hover .nav-link:after, .index-scrollspy .navigation .navbar-nav .nav-item .nav-link.active:after { border-bottom-color:#1a7bb7; }
+.index-scrollspy .countdown-section .count-item:hover i:after,.right-sidebar .blog-search-form .search-form .search-input:focus { border-color:#1a7bb7; }
+.index-scrollspy .portfolio-section .portfolio-nav ul li.active,.index-scrollspy .portfolio-section .portfolio-nav ul li:hover,.right-sidebar .categories-list ul li span,
+.index-text-slideshow .slideshow-slider.owl-carousel .owl-nav button.owl-prev:hover,.index-text-slideshow .slideshow-slider.owl-carousel .owl-nav button.owl-next:hover{ background-color:#1a7bb7; color:#fff; }
+/* Dark Mode */
+.dark-mode.index-scrollspy a:not(.btn):hover,.dark-mode.index-scrollspy .info ul.info-list li .value a:hover,
+.dark-mode.index-scrollspy .navigation .navbar-nav .nav-item:hover .nav-link, 
+.dark-mode.index-scrollspy .navigation .navbar-nav .nav-item .nav-link.active{ color:#1a7bb7; }
+.dark-mode.index-scrollspy .social-icon a:hover { background-color:#1a7bb7; color:#fafafa; border-color:#1a7bb7; }
+
+
