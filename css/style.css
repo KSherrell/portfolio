@@ -6110,3 +6110,10 @@ h1.lighttext {
     text-decoration: #fc7200 underline;
     cursor: pointer;
 }
+
+#selfiebg {
+    background-image: url(images/banners/selfie.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 80px;
+    "} 
