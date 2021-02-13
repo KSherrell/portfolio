@@ -229,7 +229,7 @@ h4,
 
 h5,
 .h5 {
-    font-size: 20px;
+    font-size: 32px;
 }
 
 h6,
@@ -838,7 +838,7 @@ p:last-child {
 
 .timeline .timeline-item .item-title {
     font-family: 'Roboto', sans-serif;
-    font-size: 15px;
+    font-size: 1rem;
     text-transform: capitalize;
     line-height: 100%;
     margin-bottom: 10px;
