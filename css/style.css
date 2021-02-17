@@ -6110,3 +6110,10 @@ h1.lighttext {
     text-decoration: #fc7200 underline;
     cursor: pointer;
 }
+
+.badges {
+    width: 300px;
+    padding: 10px;
+    margin-right: 10px;
+    display: inline-block;
+}
