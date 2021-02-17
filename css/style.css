@@ -3968,7 +3968,7 @@ p:last-child {
 
 /* 15.1 Section Spacing */
 .index-scrollspy .section-spacing {
-    padding: 80px 0;
+    padding: 30px 0;
 }
 
 .index-scrollspy .block-content {
@@ -3980,7 +3980,7 @@ p:last-child {
 }
 
 .index-scrollspy .content-inner {
-    padding: 0 0 0;
+    padding: 20px 0 0;
 }
 
 .index-scrollspy .view-more .btn {
@@ -3996,7 +3996,7 @@ p:last-child {
 .index-scrollspy .section-title {
     text-align: center;
     border: none;
-    padding: 0;
+    padding: 15px 0 0;
 }
 
 .index-scrollspy .section-title h1 {
