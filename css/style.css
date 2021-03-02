@@ -6112,9 +6112,11 @@ h1.lighttext {
 }
 
 .badges {
-    max-width: 300px;
+    max-width: 150px;
+    max-height: 250px;
     padding: 10px;
-    margin-right: 10px;
+    margin-right: 3px;
+    margin-bottom: 3px;
     display: inline-block;
     background-color: #efefef;
 }
