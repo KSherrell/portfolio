@@ -209,7 +209,7 @@ h6,
 
 h1,
 .h1 {
-    font-size: 40px;
+    font-size: 30px;
 }
 
 h2,
@@ -229,7 +229,7 @@ h4,
 
 h5,
 .h5 {
-    font-size: 32px;
+    font-size: 20px;
 }
 
 h6,
@@ -710,7 +710,7 @@ p:last-child {
     bottom: -14px;
     left: 0;
     right: 0;
-    width: 70%;
+    width: 120%;
     height: 3px;
     margin: 0;
     background-color: #cd5353;
@@ -4228,7 +4228,7 @@ p:last-child {
 }
 
 .index-scrollspy .banner-section .banner-text h1 {
-    font-size: 50px;
+    font-size: 40px;
     font-weight: 500;
     letter-spacing: 1px;
     margin: 0 0 15px;
@@ -6039,7 +6039,6 @@ h1.lighttext {
     padding: 10px 10px 5px 15px;
     border-radius: 3px;
     background-color: #cd5353;
-    opacity: 90%;
 }
 
 .intro-text {
@@ -6119,4 +6118,10 @@ h1.lighttext {
     margin-bottom: 3px;
     display: inline-block;
     background-color: #efefef;
+}
+
+.techlist li {
+    line-height: 1rem; 
+    margin-bottom: 10px;
+    list-style: square;
 }
